@@ -165,7 +165,7 @@
         <!-- QR Code Section -->
         <div class="qr-code">
             <h4>Scan to Pay</h4>
-            <img alt="QR Code" src="images/QR.png" />
+            <img alt="QR Code" src="images/QR.jpg" />
             <p>Use your preferred payment app to scan this code.</p>
         </div>
     </div>
